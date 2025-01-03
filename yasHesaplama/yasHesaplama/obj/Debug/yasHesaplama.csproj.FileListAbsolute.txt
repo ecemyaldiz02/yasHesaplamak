@@ -1,0 +1,7 @@
+C:\Users\ecem2\OneDrive\Masaüstü\C#\yasHesaplama\yasHesaplama\bin\Debug\yasHesaplama.exe.config
+C:\Users\ecem2\OneDrive\Masaüstü\C#\yasHesaplama\yasHesaplama\bin\Debug\yasHesaplama.exe
+C:\Users\ecem2\OneDrive\Masaüstü\C#\yasHesaplama\yasHesaplama\bin\Debug\yasHesaplama.pdb
+C:\Users\ecem2\OneDrive\Masaüstü\C#\yasHesaplama\yasHesaplama\obj\Debug\yasHesaplama.csproj.AssemblyReference.cache
+C:\Users\ecem2\OneDrive\Masaüstü\C#\yasHesaplama\yasHesaplama\obj\Debug\yasHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ecem2\OneDrive\Masaüstü\C#\yasHesaplama\yasHesaplama\obj\Debug\yasHesaplama.exe
+C:\Users\ecem2\OneDrive\Masaüstü\C#\yasHesaplama\yasHesaplama\obj\Debug\yasHesaplama.pdb
